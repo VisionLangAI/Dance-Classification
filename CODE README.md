@@ -117,6 +117,3 @@ Future work includes dataset expansion and spatiotemporal modeling.
 
 ------------------------------------------------------------------------
 
-## 📜 Citation
-
-If you use this work, please cite the corresponding research paper.
